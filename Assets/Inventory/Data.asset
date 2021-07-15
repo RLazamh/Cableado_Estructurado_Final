@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4af77ce9dd9fee42b43f65b87e31293, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  dataBase:
+  - name: Gutter
+    sprite: {fileID: 21300000, guid: b3f49465efe7b6e4bae7b3cc7ffeac46, type: 3}
+    funtion: GutterUse
+    prefab: {fileID: -927199367670048503, guid: 0d44af2a18dd0604ab7d8eb1be9f6da9,
+      type: 3}
+  - name: ElbowGutterRight1
+    sprite: {fileID: 21300000, guid: 4c64e4297f89043409969c3c34248f28, type: 3}
+    funtion: ElbowGutterRight1
+    prefab: {fileID: 1873914409614579894, guid: 96517cdce660f470780d2686f908eeec,
+      type: 3}
+  - name: ElbowGutterLeft1
+    sprite: {fileID: 21300000, guid: 8d7e29ee5a67c044893feff5a9000494, type: 3}
+    funtion: ElbowGutterLeft1
+    prefab: {fileID: 2157952950138469739, guid: 0911ed8cb7f6d44d58657a4be34b939a,
+      type: 3}
+  - name: ElbowGutterLeft2
+    sprite: {fileID: 21300000, guid: 8d1ce542643f65340bbdf7fc9c5df629, type: 3}
+    funtion: ElbowGutterLeft2
+    prefab: {fileID: 5705747288012657635, guid: e28da4d82ca9f4c4bb071cd320879efd,
+      type: 3}
+  - name: ElbowGutterRight2
+    sprite: {fileID: 21300000, guid: 35ab8055852edc546bb223d4927ea73c, type: 3}
+    funtion: ElbowGutterRight2
+    prefab: {fileID: 1881028903317871906, guid: c09f20f48ebf5490fbbcaea72d5c579f,
+      type: 3}
+  - name: ElbowGutterVertical1
+    sprite: {fileID: 21300000, guid: 519d6aefa95d40e4aac3ca5a0c7fbf26, type: 3}
+    funtion: ElbowGutterVertical1
+    prefab: {fileID: 3812888638729612428, guid: 50f4810e4d28149cdad14b3fb4565e77,
+      type: 3}
+  - name: ElbowGutterVertical2
+    sprite: {fileID: 21300000, guid: c89e147f98c609e4498e48e8aed95600, type: 3}
+    funtion: ElbowGutterVertical2
+    prefab: {fileID: 3446763618996098797, guid: 8a49f8e71224148049de059938f729d1,
+      type: 3}
+  - name: ElbowGutterVertical3
+    sprite: {fileID: 21300000, guid: 85bf6369a9438fb4c9065800ce54a8bc, type: 3}
+    funtion: ElbowGutterVertical3
+    prefab: {fileID: 1585938436706004541, guid: b6dd97a8e415a4eff9e078f374626864,
+      type: 3}
+  - name: ElbowGutterVertical4
+    sprite: {fileID: 21300000, guid: 57c8184237184c24ba2b5b9f945e0eac, type: 3}
+    funtion: ElbowGutterVertical4
+    prefab: {fileID: 6619851993241471116, guid: b40b40a78de8d45c3825e564c367e680,
+      type: 3}
+  - name: Rj45Wire_568A
+    sprite: {fileID: 21300000, guid: 4dee8123ca4275f4888c5c7814dccc80, type: 3}
+    funtion: Rj45A
+    prefab: {fileID: 6460349045635870391, guid: 46c3d0e39ac714397abb7462730f8d03,
+      type: 3}
+  - name: Rj45Wire_568B
+    sprite: {fileID: 21300000, guid: 4dee8123ca4275f4888c5c7814dccc80, type: 3}
+    funtion: 
+    prefab: {fileID: 7797406289636355273, guid: f081c24bc56f44e5dbcd2c3ff3cc11df,
+      type: 3}
+  - name: Network Cable
+    sprite: {fileID: 21300000, guid: 270d0e838965c5b48bea578ca67e83d9, type: 3}
+    funtion: ElbowGutterTwo
+    prefab: {fileID: 4456149258766132843, guid: 0e6e06e2398be4d11a36cf01ad109055,
+      type: 3}
+  - name: Gutter T1
+    sprite: {fileID: 21300000, guid: a6c398a0d6aceb74a9dd324c073df76e, type: 3}
+    funtion: TGutter1
+    prefab: {fileID: 9148549840211056622, guid: fcae74c42cd81421c8cb5f2f9e448c8c,
+      type: 3}
+  - name: Gutter T2
+    sprite: {fileID: 21300000, guid: 55773462c7acdf84da8bd4674e359544, type: 3}
+    funtion: TGutter2
+    prefab: {fileID: 2947388363555692868, guid: c3d9097d97ced442c98e0fcdf4e37461,
+      type: 3}
+  - name: Gutter T3
+    sprite: {fileID: 21300000, guid: 8339b33c645e62041ab02e68de46527d, type: 3}
+    funtion: TGutter3
+    prefab: {fileID: 2946985054834648787, guid: caa0789df3bdc4ddfae9ff8572c8ebd8,
+      type: 3}
+  - name: Gutter T4
+    sprite: {fileID: 21300000, guid: 4532c18e9749e634e8b3dc26fa5bca0f, type: 3}
+    funtion: TGutter4
+    prefab: {fileID: 7083691307065452355, guid: 6e692084f13f3411188548703582db7a,
+      type: 3}
+  - name: Rack
+    sprite: {fileID: 21300000, guid: 08950a455a40b2347bce658343a08bfd, type: 3}
+    funtion: Rack
+    prefab: {fileID: 6606934781506924472, guid: 517faf76f8ff566468207428e3e75f1c,
+      type: 3}
+  - name: Patch Panel
+    sprite: {fileID: 21300000, guid: ce4abe559be9b2a45bbabb2452c6981c, type: 3}
+    funtion: Patch1
+    prefab: {fileID: 2956795371362473533, guid: 676231bf87020ab4987b36151dfc2315,
+      type: 3}
+  - name: Patch Panel Doble
+    sprite: {fileID: 21300000, guid: b3c1ce791ea7ad0438c2564ad14c4cb5, type: 3}
+    funtion: Patch2
+    prefab: {fileID: 6073192992751279997, guid: 77a25bdb26ad7da4e855133722a81fea,
+      type: 3}
+  - name: Conexion Energy
+    sprite: {fileID: 21300000, guid: 194263e3e297db94ea033104410492ff, type: 3}
+    funtion: Conexion
+    prefab: {fileID: -927199367670048503, guid: e6ddea7e2a707d34888e731caa448c1e,
+      type: 3}
+  - name: Conexion Energy
+    sprite: {fileID: 21300000, guid: 194263e3e297db94ea033104410492ff, type: 3}
+    funtion: conexion
+    prefab: {fileID: 8645856585108701103, guid: 7fc97b05a0729ab4f941589f4ffdd89a,
+      type: 3}

@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - slot
+  - item
+  - Slot
+  - ceiling
+  - floor
+  - column
+  - realCeiling
+  - realFloor
+  - gutter
+  - horizontalGutter
+  - verticalGutter
+  - GutterIntersection
+  - verticalFloor
+  - horizontalFloor
+  - NewObject
+  - NewObjectNULL
+  - GutterIntersectionFloor
+  - Rj45_568A
+  - Rj45_568B
+  - Rj45_
+  - Golpe
+  - Labfloor
+  - Tconeccion
+  - prueba1
+  - prueba2
+  - prueba3
+  - prueba4
+  - prueba5
+  - prueba6
+  - prueba7
+  - prueba8
+  - prueba9
+  - prueba10
+  - prueba11
+  - prueba12
+  - prueba13
+  - cable
+  - cable_prueba
+  - cable_horizontal
+  - cable_codos
+  - cable_codos2
+  - cable_codos3
+  - cable_codos4
+  - cable_t1
+  - cable_t2
+  - cable_t3
+  - cable_t4
+  - cable_vertical
+  - cable_vertical2
+  - cable_vertical3
+  - cable_vertical4
+  - Slot2
+  - Patch_1RU
+  - Patch_2RU
+  - puerto
+  - SlotOcupado
+  - conexion
+  - pisoRack
+  - Rack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ceiling
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
