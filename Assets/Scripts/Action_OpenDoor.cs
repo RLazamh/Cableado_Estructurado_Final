@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Action_OpenDoor : MonoBehaviour
 {
-/*comentario*/
+/*comentario2*/
     public float smooth = 2.0f;
     public float DoorOpenAngle = 90.0f;
     private bool open;
